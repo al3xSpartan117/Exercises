@@ -1,0 +1,142 @@
+
+car-carro
+house-casa
+gun-arma
+computer-computadora
+pen-pluma
+truck-camioneta
+water-agua
+silla-chair
+cellphone-celular
+light-luz
+bed-cama
+paper-papel
+wood-madera
+flat-plano
+kick off-patada inicial
+brick-ladrillo
+thick-grueso
+holy crap-santo cielo
+stuff-cosas
+jet engine-motor a reaccion
+engine-motor
+drop-soltar
+floodgate-compuerta
+flood-inundacion
+bumper-parachoque
+bumped-golpeado
+almost-casi
+raise-aumentar
+faith-fe
+crash test dummies-munecos de prueba
+snapped-roto/rota
+tore-rasgó
+tear-rasgar
+remains-restos
+drag-arrastrar
+gosh-dios mio
+mix-mezcla
+spot-lugar
+at least-por lo menos
+roof-techo
+foam-espuma
+forbidden-prohibido
+yeah and so-si y asi
+tingling-hormigueo
+halfway-medio camino
+insane-loco
+ledge-repisa
+whichever-cualquiera
+split-separar
+splits-divisiones
+fart-pedo
+escort-escolta
+escort you-escoltarte
+oatmeal-avena
+though-sin embargo
+even though-a pesar de
+ramp-rampa
+ramp up-aumentar
+shirnk-encoger
+whenever-cuando sea
+up to you-tu decides
+a letdown-una decepcion
+blame-culpa
+briefcase-maletin
+so be it-que asi sea
+embarrassing-embarazoso
+point out-señalar
+contestant-concursante
+brand-marca
+sponsor-patrocinador
+as you can tell-como puedes decir
+hopper-tolva
+smoother-mas suave
+cartridge-cartucho
+blast-explosion
+pop-estallido
+borrowing your-tomando prestado tu
+freaked out-asustado
+besides-ademas
+launch-lanzar
+a little bit ago-hace un poco
+forgiveness-perdon
+over there-por ahi
+win by a landslide-ganar por goleada
+bottle-botella
+bunk beds-literas
+double bed-cama doble
+chet of drawers-comoda
+single bed-cama individual
+bedside table-mesita de noche
+desk-escritorio
+dressing table-tocador
+wardrobe-armario
+bedspread-colcha
+blanket-manta
+sheet-sabana
+mattres-colchon
+pillow-almohada
+reading lamp-lamparita
+sillon-armchair
+bookcase-estanteria
+clock-reloj
+coffe table-mesa de cafe
+filing cabinet-archivo
+sideboard-aparador
+sofa-sofa
+sofa bed-sofa cama
+fireplace-chimenea
+mirror-espejo
+waste-desperdicio
+waster paper basket-papelera
+bathtub-bañera
+sink-lavabo
+toilet-inodoro
+bathroom scales-bascula
+bath mat-alfombrilla del baño
+medicine cabine-botiquin
+faucet-grifo
+fair enough-bastante justo
+he is not hold on-el no aguanta
+i am lagging-estoy lagueado
+dropping-cayendo
+curse-maldicion
+the curse-la maldicion
+chopper-helicoptero
+i do have-yo tengo
+a drill-un taladro
+drill charge-carga taladro
+drill-perforar
+whether-ya sea
+based-basado
+criteria-criterios
+assessed-juzgado
+should be done-deberia estar hecho
+I was thinking about-estaba pensando en
+whether you like it or not-ya sea te guste o no
+shift resources-mover recursos
+unlikely-improbable
+any-ninguno
+sort-tipo
+there is like no point at all-no tiene sentido del todo

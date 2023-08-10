@@ -1,0 +1,55 @@
+('C:\\Users\\alexl\\Desktop\\INF\\Cursos\\programacion\\python\\aprendeconalf\\Aprende '
+ 'con alf\\Ejercicios ficheros\\build\\vocabularyPro\\vocabularyPro.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'C:\\Users\\alexl\\Desktop\\INF\\Cursos\\programacion\\python\\aprendeconalf\\Aprende '
+   'con alf\\Ejercicios ficheros\\build\\vocabularyPro\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\alexl\\Desktop\\INF\\Cursos\\programacion\\python\\aprendeconalf\\Aprende '
+   'con alf\\Ejercicios ficheros\\build\\vocabularyPro\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\alexl\\Desktop\\INF\\Cursos\\programacion\\python\\aprendeconalf\\Aprende '
+   'con alf\\Ejercicios '
+   'ficheros\\build\\vocabularyPro\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\alexl\\Desktop\\INF\\Cursos\\programacion\\python\\aprendeconalf\\Aprende '
+   'con alf\\Ejercicios '
+   'ficheros\\build\\vocabularyPro\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\alexl\\Desktop\\INF\\Cursos\\programacion\\python\\aprendeconalf\\Aprende '
+   'con alf\\Ejercicios '
+   'ficheros\\build\\vocabularyPro\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\alexl\\Desktop\\INF\\Cursos\\programacion\\python\\aprendeconalf\\Aprende '
+   'con alf\\Ejercicios '
+   'ficheros\\build\\vocabularyPro\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\alexl\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\alexl\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('vocabularyPro',
+   'C:\\Users\\alexl\\Desktop\\INF\\Cursos\\programacion\\python\\aprendeconalf\\Aprende '
+   'con alf\\Ejercicios ficheros\\vocabularyPro.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
